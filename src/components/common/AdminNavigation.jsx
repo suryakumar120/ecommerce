@@ -15,7 +15,7 @@ const AdminNavigation = () => {
     <nav className="navigation navigation-admin">
       <div className="logo">
         <Link to={ADMIN_DASHBOARD} style={{ display: 'flex', alignItems: 'center' }}>
-          <img alt="Logo" src={logo} />
+          <h2>Suryas Eyewear</h2>
           <h3>ADMIN PANEL</h3>
         </Link>
       </div>
